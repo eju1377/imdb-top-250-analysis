@@ -41,3 +41,6 @@ The questions I wanted to answer and the steps I took for data manipulation in t
 ![Movies Per Decade Chart](assets/charts/movies_decade.png "Movies Per Decade Chart")
 * Which certificate category has the highest-rated films?
 ![Certificate vs Rating Chart](assets/charts/certificate_rating.png "Certificate vs Rating Chart")
+
+## Statistical Analysis
+I conducted descriptive statistics on the data from the "Rating" and "Year" columns to explore what rating and year the top 250 movies are clustered around. I found that the top 250 movies are clustered around a mean rating of 8.3 and the year 1988. Most of the movies were released within 30 years. The movies in the top 250 are within 1.3 points on the IMBd rating scale.
