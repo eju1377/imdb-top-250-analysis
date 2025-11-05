@@ -36,7 +36,8 @@ The questions I wanted to answer and the steps I took for data manipulation in t
  ## Visualizations
  I created the following visualizations to address the guiding questions:
  * Which genres tend to have the highest average IMDb rating?
-
+![Genre vs. Rating Chart](assets/charts/genre_rating.png "Genre vs. Rating Chart")
 * Are older movies more likely to appear in the top 250 than newer ones?
-
+![Movies Per Decade Chart](assets/charts/movies_decade.png "Movies Per Decade Chart")
 * Which certificate category has the highest-rated films?
+![Certificate vs Rating Chart](assets/charts/certificate_rating.png "Certificate vs Rating Chart")
